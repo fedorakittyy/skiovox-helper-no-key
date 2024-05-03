@@ -5,6 +5,7 @@
   "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
   "icons": {
     "128": "icon.png"
+    "key": ""
   },
   "commands": {
     "ACCESS_HISTORY": {
